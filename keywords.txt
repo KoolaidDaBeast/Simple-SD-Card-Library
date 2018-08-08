@@ -1,0 +1,25 @@
+###########################################
+# Syntax Coloring Map For Simple-SD-Card-Library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+chipSelect KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+writeToFile KEYWORD2
+writeNewLineToFile KEYWORD2
+createIncrFile KEYWORD2
+createFile KEYWORD2
+setupSDCard KEYWORD2
+openFile KEYWORD2
+closeFile KEYWORD2
+getTimestamp KEYWORD2
+getMillis KEYWORD2
+delayLogs KEYWORD2
+isSynced KEYWORD2
